@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smiles</string>
+
+    <string-array name="picNames">
+        <item>welcomeone</item>
+        <item>welcometow</item>
+        <item>welcomethree</item>
+    </string-array>
+</resources>
